@@ -222,3 +222,4 @@ hej
 aerodrome
 NoNePerDol 
 slim 
+koszt 
