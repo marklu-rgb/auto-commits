@@ -223,3 +223,4 @@ aerodrome
 NoNePerDol 
 slim 
 koszt 
+wypiekacz 
