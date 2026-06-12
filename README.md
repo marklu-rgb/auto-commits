@@ -224,3 +224,4 @@ NoNePerDol
 slim 
 koszt 
 wypiekacz 
+kierowca 
