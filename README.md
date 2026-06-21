@@ -225,3 +225,4 @@ slim
 koszt 
 wypiekacz 
 kierowca 
+dzień 
