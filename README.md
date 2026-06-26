@@ -226,3 +226,4 @@ koszt
 wypiekacz 
 kierowca 
 dzień 
+scsd 
