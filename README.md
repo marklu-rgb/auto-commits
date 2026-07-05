@@ -227,3 +227,4 @@ wypiekacz
 kierowca 
 dzień 
 scsd 
+pogoda 
