@@ -228,3 +228,4 @@ kierowca
 dzień 
 scsd 
 pogoda 
+life 
