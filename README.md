@@ -229,3 +229,4 @@ dzień
 scsd 
 pogoda 
 life 
+jak 
